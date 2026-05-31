@@ -1,6 +1,6 @@
 #profile-title: 👀SoftonicVPN
 #profile-update-interval: 12
-#announce: тестовая версия, возможны резкие падения
+#announce: ⚠️тестовая версия, возможны резкие падения⚠️
 #support-url: https://t.me/softonic67
 #profile-web-page-url: https://pornhub.com
 #hide-settings: 1
