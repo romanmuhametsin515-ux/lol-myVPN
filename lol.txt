@@ -5,7 +5,7 @@
 #support-url: https://t.me/softonic67
 #profile-web-page-url: https://t.me/miuilore
 #hide-settings: 1
-# softonicVPN
+#softonicVPN
 vless://e0dcef2e-608c-430e-ab42-cba2b3ac8058@185.200.196.68:443?encryption=none&type=grpc&mode=gun&security=reality&sni=passport.yandex.ru&fp=qq&pbk=Js7tuIvuU2ZMBKoqT8oh6Sy7WDIZK7wE1FUKhoiLsRA&sid=85229882bd386e72#%F0%9F%87%AA%F0%9F%87%AA%20%E2%99%BE%EF%B8%8F%20Estonia
 vless://e0dcef2e-608c-430e-ab42-cba2b3ac8058@38.180.227.204:443?encryption=none&type=grpc&mode=gun&security=reality&sni=passport.yandex.ru&fp=chrome&pbk=Js7tuIvuU2ZMBKoqT8oh6Sy7WDIZK7wE1FUKhoiLsRA&sid=1aea45b020b54032#%F0%9F%87%B5%F0%9F%87%B1%20%E2%99%BE%EF%B8%8F%20Poland
 vless://e0dcef2e-608c-430e-ab42-cba2b3ac8058@5.101.83.43:443?encryption=none&type=grpc&mode=gun&security=reality&sni=passport.yandex.ru&fp=chrome&pbk=Js7tuIvuU2ZMBKoqT8oh6Sy7WDIZK7wE1FUKhoiLsRA&sid=1aea45b020b54032#%F0%9F%87%AC%F0%9F%87%A7%20%E2%99%BE%EF%B8%8F%20United%20Kingdom
